@@ -12,3 +12,5 @@ To use the file upload or downlaod features you will have to set up a firebase d
 4) Capture Screenshots
 5) Text-To-Speech
 
+# SCREENSHOT
+![image](https://user-images.githubusercontent.com/85382114/178546746-c0968e39-f111-41b7-983a-6025b564cb78.png)
